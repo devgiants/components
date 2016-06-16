@@ -1,0 +1,3 @@
+devgiants_components_homepage:
+    path:     /
+    defaults: { _controller: DevgiantsComponentsBundle:Default:index }
